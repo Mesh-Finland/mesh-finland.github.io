@@ -1,0 +1,1 @@
+# Laite Konfiguraatio

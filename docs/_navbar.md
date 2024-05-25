@@ -1,0 +1,3 @@
+- 🌍 Translations
+  - [Suomi](/)
+  - [English](en/)

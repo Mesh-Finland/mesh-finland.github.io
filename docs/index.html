@@ -7,16 +7,33 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
 </head>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+
     <div data-app id="main">Please wait...</div>
     <script>
       window.$docsify = {
         el: "#main",
         loadSidebar: true,
+        loadNavbar: true,
+
+    plugins: [
+      EditOnGithubPlugin.create('https://github.com/Mesh-Finland/mesh-finland.github.io/tree/main/docs/', null, function(file) {
+      if (file.indexOf('en') === -1) {
+        return 'muokkaa githubissa'
+      } else {
+        return 'edit on github'
+      }
+    })
+    ]
 
       };
     </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
 </body>
 </html>

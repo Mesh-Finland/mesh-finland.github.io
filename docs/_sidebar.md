@@ -1,3 +1,5 @@
-- Käänökset
+- [Johdanto](/)
 
-* [English](en/)
+- Aloitus
+
+  - [Laite konfiguraatio](laite_konfiguraatio.md)
