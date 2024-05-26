@@ -1,6 +1,6 @@
 # Johdanto (LUONNOS)
 
-## Mitä on *Mesh-Finland*
+## Mikä on *Mesh-Finland*
 
 **Mesh-Finland** on nykyinen työnimi löyhälle yhteistyölle [Meshtastic](https://meshtastic.org/docs/introduction/) -käyttäjien kesken Suomessa.
 
