@@ -1,5 +1,5 @@
 - [Johdanto](/)
 
 - Aloitus
-
-  - [Laite konfiguraatio](laite_konfiguraatio.md)
+  - [Päivitys](laite_päivitys.md)
+  - [Konfiguraatio](laite_konfiguraatio.md)
