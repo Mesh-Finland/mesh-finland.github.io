@@ -2,38 +2,55 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Mesh Finland</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Mesh Finland ohjeet ja tiedot">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
+  <link rel="manifest" href="./site.webmanifest">
   
 </head>
-  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
-    <div data-app id="main">Please wait...</div>
+    <div id="app"></div>
     <script>
       window.$docsify = {
-        el: "#main",
         loadSidebar: true,
         loadNavbar: true,
+        pagination: {
+          nextText: {
+            '/en/': 'next',
+            '/': 'seuraava'
+          },
+          previousText: {
+            '/en/': 'previous',
+            '/': 'edellinen'
+          },
+        },
 
-    plugins: [
-      EditOnGithubPlugin.create('https://github.com/Mesh-Finland/mesh-finland.github.io/tree/main/docs/', null, function(file) {
-      if (file.indexOf('en') === -1) {
-        return 'muokkaa githubissa'
-      } else {
-        return 'edit on github'
-      }
-    })
+      plugins: [
+        EditOnGithubPlugin.create('https://github.com/Mesh-Finland/mesh-finland.github.io/tree/main/docs/', null, function(file) {
+        if (file.indexOf('en') === -1) {
+          return 'muokkaa githubissa'
+        } else {
+          return 'edit on github'
+        }
+      })
     ]
 
       };
     </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+
 
 </body>
 </html>
