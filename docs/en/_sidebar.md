@@ -1,7 +1,7 @@
 - [Introduction](en/)
+- [Name Contest](en/Name_contest.md)
 
 - Getting Started
-
   - [Configuration](en/device_configuration.md)
 
 - Node Building
