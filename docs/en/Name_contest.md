@@ -1,10 +1,10 @@
-Name contest / Nimikilpailu (DRAFT)
+# Name contest / Nimikilpailu (DRAFT)
 
-https://mesh-finland.github.io/#/ )
 
-Time to open the discussion about the group name.
+## Proposal for a contest to decide the group name.
 
-* Any name suggestion must be preceded by the text `Nimiehdotus` for example `Nimiehdotus Mesh-Finland`
+* Any name suggestion must be preceded by the text `NIMIEHDOTUS` for example `NIMIEHDOTUS Mesh-Finland`
+  * the case does not matter eg: `nimiehdotus`, `nimiEHDOTUS`, `nimiEhdotUs`, `NIMIEHDOTUS` and other variations
 * Name suggestions are made in the Discord group named # ? 
 * one suggestion per group member, if someone makes 2 suggestions, only the last one is considered
 * if someone edits their suggestion after the cut-off time, the suggestion is disqualified
