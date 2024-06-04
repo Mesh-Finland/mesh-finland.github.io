@@ -4,6 +4,6 @@
 - Getting Started
   - [Firmware Update](en/device_update.md)
   - [Configuration](en/device_configuration.md)
-
+  - [Hardware](en/getting_started_hardware.md)
 - Node Building
   - [Solar Node](en/solar_node.md)
