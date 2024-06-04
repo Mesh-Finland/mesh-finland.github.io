@@ -1,3 +1,3 @@
 # Laitteen päivitäminen
 
-https://flasher.meshtastic.org/
+<https://flasher.meshtastic.org/>

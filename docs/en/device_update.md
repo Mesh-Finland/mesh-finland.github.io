@@ -1,3 +1,3 @@
 # Updating the device
 
-https://flasher.meshtastic.org/
+<https://flasher.meshtastic.org/>

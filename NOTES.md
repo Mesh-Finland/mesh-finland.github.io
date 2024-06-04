@@ -1,12 +1,10 @@
-## Local testing
+# Local testing
 
-
-`npm i docsify-cli now -D`  // Local
-
-
+`npm i docsify-cli now -D` // Local
 
 package.json as follows.
-```
+
+```json
 {
   "devDependencies": {
     "docsify-cli": "^4.4.4",
@@ -17,9 +15,7 @@ package.json as follows.
     "start": "docsify serve docs",
     "deploy": "now -p"
   },
-  "files": [
-    "docs"
-  ],
+  "files": ["docs"],
   "docsify": {
     "config": {
       "basePath": "https://docsify.js.org/",
@@ -32,6 +28,6 @@ package.json as follows.
 }
 ```
 
-then 
+then
 
-`node start`
+`npm start`

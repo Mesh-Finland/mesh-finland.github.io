@@ -1,3 +1,3 @@
 # Laite Konfiguraatio
 
-https://client.meshtastic.org/
+<https://client.meshtastic.org/>

@@ -1,3 +1,3 @@
 # Device Configuration
 
-https://client.meshtastic.org/
+<https://client.meshtastic.org/>
