@@ -14,6 +14,7 @@
 - Provide a common place for sharing of information and coordination of the following online communities
   - The private Facebook Group ["Meshtastic Finland"](https://www.facebook.com/groups/414988777858703/permalink/469839825706931)
   - Active members of the "# Finland" channel of the [Meshtastic Discord Server](https://discord.com/invite/ktMAKGBnBs)
+  - Active members of the [Mesh Finland Discord Server](https://discord.com/invite/GHnaVAjqed)
   - Any other existing groups?
 
 ### sharing of information
