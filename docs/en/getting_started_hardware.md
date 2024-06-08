@@ -6,7 +6,7 @@
     - plusses and minus
   - other consideration
 
-- The Meshtastic Documentation pages have good technical info about supported devices
+- The [Meshtastic Documentation](https://meshtastic.org/docs/hardware/devices/) pages have good technical info about supported devices
 
 ## how many do I need or want at the start
 
