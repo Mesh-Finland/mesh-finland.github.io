@@ -102,7 +102,7 @@ This document provides essential information and recommendations for building a 
 
 Referenced BMS: [BMS](https://www.etsy.com/fi-en/listing/1609406536/mppt-solar-battery-charger-and-regulator)
 
-<img src="./assets/keskustelu.png" alt="Discussion" width="1250">
-<img src="./assets/schema.png" alt="Example Wiring" width="800">
+![image](../assets/keskustelu.png)
+![image](../assets/schema.png ":size=75%")
 
 Additional images provide more information and clarity on the project's structure and component layout.

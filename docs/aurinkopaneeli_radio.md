@@ -102,7 +102,7 @@ Tässä dokumentissa on esitetty olennaisia tietoja ja suosituksia aurinkopaneel
 
 Kuvassa mainitty [BMS](https://www.etsy.com/fi-en/listing/1609406536/mppt-solar-battery-charger-and-regulator)
 
-<img src="./assets/keskustelu.png" alt="Keskustelu" width="1250">
-<img src="./assets/schema.png" alt="Esimerkki kytkentä" width="800">
+![image](../assets/keskustelu.png)
+![image](../assets/schema.png ":size=75%")
 
 Lisäkuvien avulla voit saada lisää tietoa ja selkeyttää projektin rakennetta ja komponenttien asettelua.

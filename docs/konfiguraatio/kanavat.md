@@ -11,13 +11,13 @@ On olemassa myös `admin`-kanava, jolla voi etänä muokata omien radioiden aset
 
 1. Mene radion asetuksiin ja etsi kohta, jossa lukee `channels`. Paina siitä.
 
-   <img src="../assets/kanavat/3_dots.jpg" width="300"/>
-   <img src="../assets/kanavat/configuration.jpg" width="300"/>
-   <img src="../assets/kanavat/channels.jpg" width="200"/>
+   ![image](../assets/kanavat/3_dots.jpg ":size=25%")
+   ![image](../assets/kanavat/configuration.jpg ":size=25%")
+   ![image](../assets/kanavat/channels.jpg ":size=25%")
 
 2. Kanavat ladataan radiosta. Riippuen yhteyden laadusta ja kanavien määrästä, tämä voi kestää hetken.
 
-   <img src="../assets/kanavat/loading channels.jpg" width="200"/>
+   ![image](../assets/kanavat/loading_channels.jpg ":size=25%")
 
 3. Kun kanavat-sivu on auennut, voit luoda uuden kanavan painamalla vihreää plussaa. LongFast on oletuksena, joten sitä ei tarvitse luoda.
 
@@ -27,21 +27,19 @@ On olemassa myös `admin`-kanava, jolla voi etänä muokata omien radioiden aset
 
 6. Radio-kanavaan **EI SAA LAITTAA** uplink ja downlink päälle!
 
-   <img src="../assets/kanavat/create channel.jpg" width="200"/>
-   <img src="../assets/kanavat/LongFast.jpg" width="200"/>
-   <img src="../assets/kanavat/Radio.jpg" width="200"/>
+   ![image](../assets/kanavat/create_channel.jpg ":size=25%")
+   ![image](../assets/kanavat/LongFast.jpg ":size=25%")
+   ![image](../assets/kanavat/Radio.jpg ":size=25%")
 
 7. Kun olet valmis, paina `Save`, jotta kanava lisätään listaan. Lopuksi paina vihreää `Send`-nappia, niin kanavat lähetetään radiolle.
 
-   <img src="../assets/kanavat/send_channels.jpg" width="250"/>
+   ![image](../assets/kanavat/send_channels.jpg ":size=25%")
 
 8. Näyttöön aukeaa pieni ikkuna, joka näyttää lähetyksen edistymisen. Kun palkki häviää, voit sulkea asetukset.
 
-   <img src="../assets/kanavat/sending_channels.jpg" width="200"/>
-   <img src="../assets/kanavat/channels_sent.jpg" width="200"/>
+   ![image](../assets/kanavat/sending_channels.jpg ":size=25%")
+   ![image](../assets/kanavat/channels_sent.jpg ":size=25%")
 
 Jos näet kanavat näin, onnittelut! Onnistuit luomaan kanavan/kanavat.
 
-<img src="../assets/kanavat/channels_home.jpg" width="250"/>
-
----
+![image](../assets/kanavat/channels_home.jpg ":size=25%")
