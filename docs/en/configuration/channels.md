@@ -2,7 +2,7 @@
 
 In Finland, there are two official channels in use:
 
-- **LongFast**: The encryption key is `AG==`, which should be set by default.
+- **LongFast**: The encryption key is `AQ==`, which should be set by default.
 - **Radio**: There is no encryption key, so remove the key that the application creates.
 
 There is also an `admin` channel, which can remotely modify the settings of your radios if they are within radio range. **DO NOT SHARE** the encryption key of this channel under any circumstances!

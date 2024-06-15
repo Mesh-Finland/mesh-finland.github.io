@@ -2,7 +2,7 @@
 
 Suomessa on käytössä kaksi virallista kanavaa:
 
-- **LongFast**: Salausavain on `AG==`, ja sen pitäisi olla oletuksena.
+- **LongFast**: Salausavain on `AQ==`, ja sen pitäisi olla oletuksena.
 - **Radio**: Ei ole salausavainta, eli poista avain, jonka sovellus luo.
 
 On olemassa myös `admin`-kanava, jolla voi etänä muokata omien radioiden asetuksia, jos on radioetäisyydellä. Kanavan salausavainta **EI SAA MISSÄÄN NIMESSÄ JAKAA!**
