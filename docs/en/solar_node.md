@@ -40,7 +40,7 @@
 
 ### Protectors
 
-- **Cell Protection (1s 1.5A):** [Product Link](https://www.aliexpress.com/item/1005006767554992.html)
+- **Cell Protection (1s 1.5A):** [Product Link](https://www.aliexpress.com/item/1005006767554992.html) or [Product Link](https://vi.aliexpress.com/item/1005003244161492.html)
   - Cell-specific protectors prevent individual cells from overloading and protect them from damage.
 
 ### Battery Holders
@@ -102,7 +102,7 @@ This document provides essential information and recommendations for building a 
 
 Referenced BMS: [BMS](https://www.etsy.com/fi-en/listing/1609406536/mppt-solar-battery-charger-and-regulator)
 
-![image](../assets/keskustelu.png)
-![image](../assets/schema.png ":size=75%")
+![image](../assets/keskustelu.png ":size=40%")
+![image](../assets/schema.png ":size=30%")
 
 Additional images provide more information and clarity on the project's structure and component layout.

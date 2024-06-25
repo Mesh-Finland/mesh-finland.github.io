@@ -23,9 +23,9 @@
 
 ### Sulakkeet
 
-- **Lämpösulake (80°C - 90°C thermal fuse):** [Linkki tuotteeseen](https://www.aliexpress.com/item/4000583221153.html)
+- **Lämpösulake (esim. 80°C - 90°C thermal fuse):** [Linkki tuotteeseen](https://www.aliexpress.com/item/4000583221153.html)
   - Lämpösulake suojaa laitteistoa ylikuumenemiselta katkaisemalla virtapiirin, jos lämpötila ylittää turvallisen rajan.
-- **Palautuva sulake (70°C - 75°C thermal cutoff):** [Linkki tuotteeseen](https://www.aliexpress.com/item/32893056909.html)
+- **Palautuva sulake (esim. 70°C - 75°C thermal cutoff):** [Linkki tuotteeseen](https://www.aliexpress.com/item/32893056909.html)
   - Palautuva sulake tarjoaa suojaa ylikuumenemiselta ja palautuu automaattisesti, kun lämpötila laskee turvalliselle tasolle.
 
 ### Tuuletusaukko
@@ -40,7 +40,7 @@
 
 ### Suojat
 
-- **Joka kennolle suoja (1s 1.5A):** [Linkki tuotteeseen](https://www.aliexpress.com/item/1005006767554992.html)
+- **Joka kennolle suoja (1s 1.5A):** [Linkki tuotteeseen](https://www.aliexpress.com/item/1005006767554992.html) tai [Linkki tuotteeseen](https://www.aliexpress.com/item/1005003244161492.html)
   - Kennokohtaiset suojat estävät yksittäisten kennojen ylikuormittumisen ja suojaavat niitä vaurioilta.
 
 ### Akkujen Pitimet
@@ -102,7 +102,7 @@ Tässä dokumentissa on esitetty olennaisia tietoja ja suosituksia aurinkopaneel
 
 Kuvassa mainitty [BMS](https://www.etsy.com/fi-en/listing/1609406536/mppt-solar-battery-charger-and-regulator)
 
-![image](../assets/keskustelu.png)
-![image](../assets/schema.png ":size=75%")
+![image](../assets/keskustelu.png ":size=40%")
+![image](../assets/schema.png ":size=30%")
 
 Lisäkuvien avulla voit saada lisää tietoa ja selkeyttää projektin rakennetta ja komponenttien asettelua.
