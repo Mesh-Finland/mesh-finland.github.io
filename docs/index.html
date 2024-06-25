@@ -26,8 +26,11 @@
         mergeNavbar: true,
         loadSidebar: true,
         loadNavbar: true,
+        subMaxLevel: 10,
 
         repo: 'Mesh-Finland/mesh-finland.github.io',
+        crossChapter: true,
+        crossChapterText: true,
 
         nameLink: {
           '/en/': '#/en/',
@@ -42,6 +45,16 @@
             '/en/': 'previous',
             '/': 'edellinen'
           },
+          imeUpdater: {
+            text: "<div align='center'>Modified/Muokattu: {docsify-updated}</div>",
+            formatUpdated: "{DD}/{MM}/{YYYY}",
+            whereToPlace: "top",  // "top" or "bottom", default to "bottom"
+          },
+          progress: {
+            position: "top",
+            color: "var(--theme-color,#42b983)",
+            height: "3px",
+    }
         },
 
       plugins: [
@@ -59,6 +72,9 @@
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
 
 
 <script>

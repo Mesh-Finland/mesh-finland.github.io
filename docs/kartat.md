@@ -1,4 +1,4 @@
-# Meshtastic-karttalista
+# Meshtastic-karttalista <!-- {docsify-ignore-all} -->
 
 Tässä on joitakin hyödyllisiä linkkejä Meshtastic-laitteiden karttoihin:
 

@@ -31,3 +31,6 @@ package.json as follows.
 then
 
 `npm start`
+
+If last modified date on the page is wrong read this
+`https://github.com/pfeak/docsify-updated?tab=readme-ov-file#question`

@@ -12,3 +12,4 @@
   - [Solar Node](en/solar_node.md)
 
 - [Maps](en/maps.md)
+- [Contributing](en/Contributing.md)

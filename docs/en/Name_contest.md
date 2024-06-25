@@ -1,4 +1,4 @@
-# Name contest / Nimikilpailu (DRAFT)
+# Name contest / Nimikilpailu (DRAFT) <!-- {docsify-ignore-all} -->
 
 ## Proposal for a contest to decide the group name
 

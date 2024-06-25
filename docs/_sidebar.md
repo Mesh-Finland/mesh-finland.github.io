@@ -14,3 +14,4 @@
   - [Aurinkopaneeli radio](aurinkopaneeli_radio.md)
 
 - [Kartta](kartat.md)
+- [Korjaus/Muokkaus](osallustiminen.md)

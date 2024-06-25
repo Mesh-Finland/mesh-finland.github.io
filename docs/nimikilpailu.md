@@ -1,4 +1,4 @@
-# Nimikilpailu (LUONNOS)
+# Nimikilpailu (LUONNOS) <!-- {docsify-ignore-all} -->
 
 ## Ehdotus kilpailuksi ryhmän nimen päättämiseksi
 
