@@ -1,4 +1,4 @@
-# Meshtastic-karttalista <!-- {docsify-ignore-all} -->
+# Meshtastic-karttalista
 
 Tässä on joitakin hyödyllisiä linkkejä Meshtastic-laitteiden karttoihin:
 
@@ -12,4 +12,6 @@ Tässä on joitakin hyödyllisiä linkkejä Meshtastic-laitteiden karttoihin:
 
 5. [Technically Rural -kartta](https://map.technicallyrural.com/) - Tarjoaa MQTT-pohjaisen kartan Meshtastic-laitteille. (Ei liity Meshtasticiin)
 
-Huomaa, että kaikki linkit paitsi [Meshtastic.org -kartta](https://map.meshtastic.org/) eivät ole osa MEshtasticiä. Käytä näitä resursseja seurataksesi ja visualisoidaksesi Meshtastic-laitteiden sijainteja.
+6. [ParaGuide MeshMap](https://ws.paraguide.in/meshmap/) - Tarjoaa MQTT-pohjaisen kartan Meshtastic-laitteille. (Ei liity Meshtasticiin)
+
+Huomaa, että kaikki linkit paitsi [Meshtastic.org -kartta](https://map.meshtastic.org/) eivät ole liittyneet Meshtasticiin. Käytä näitä resursseja seurataksesi ja visualisoidaksesi Meshtastic-laitteiden sijainteja.

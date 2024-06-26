@@ -1,4 +1,4 @@
-# Meshtastic Map List <!-- {docsify-ignore-all} -->
+# Meshtastic Map List
 
 Here are some useful links to maps for Meshtastic devices:
 
@@ -12,4 +12,6 @@ Here are some useful links to maps for Meshtastic devices:
 
 5. [Technically Rural Map](https://map.technicallyrural.com/) - Provides MQTT-based mapping for Meshtastic nodes. (Not affiliated with Meshtastic)
 
-Please note that all links except for [Meshtastic.org Map](https://map.meshtastic.org/) are not affiliated with Meshtastic. Use these resources to track and visualize Meshtastic device locations.
+6. [ParaGuide MeshMap](https://ws.paraguide.in/meshmap/) - Provides MQTT-based mapping for Meshtastic nodes. (Not affiliated with Meshtastic)
+
+Please note that all links except for the [Meshtastic.org Map](https://map.meshtastic.org/) are not affiliated with Meshtastic. Use these resources to track and visualize Meshtastic device locations.
