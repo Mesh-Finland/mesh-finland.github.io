@@ -1,5 +1,8 @@
 # Johdanto (LUONNOS)
 
+Udempaa tietoa löydät täältä https://www.meshabout.fi/
+Toki ei kaikkea ohjeita ole mitä löydät täältä.
+
 ## Mikä on _Mesh-Finland_
 
 **Mesh-Finland** on nykyinen työnimi löyhälle yhteistyölle [Meshtastic](https://meshtastic.org/docs/introduction/) -käyttäjien kesken Suomessa.
