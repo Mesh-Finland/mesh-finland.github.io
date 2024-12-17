@@ -2,6 +2,8 @@
 
 <https://mesh-finland.github.io/>
 
+täällä hetkellä uudempaa tietoa löytyy täältä https://www.meshabout.fi/mqtt/
+
 ## Suomeksi
 
 Käytämme [docisify](https://docsify.js.org/#/).
