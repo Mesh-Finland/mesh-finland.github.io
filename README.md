@@ -2,7 +2,7 @@
 
 <https://mesh-finland.github.io/>
 
-täällä hetkellä uudempaa tietoa löytyy täältä https://www.meshabout.fi/mqtt/
+täällä hetkellä uudempaa tietoa löytyy täältä https://www.meshabout.fi
 
 ## Suomeksi
 
